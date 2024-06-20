@@ -37,7 +37,7 @@ st.sidebar.markdown(
     """
     **Description**:
     1) OpenAI model is *GPT-4o* which supports multilanguage conversation.
-    2) Hugging Face model is *Mistral-7b-v0.1* which supports only English conversations. For using it you will need to be granted here: https://huggingface.co/mistralai/Mistral-7B-v0.1
+    2) Hugging Face model is *Mistral-7b-v0.1* which supports only English conversations. For using it you will need to be granted here: https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2
     """
 )
 llm_option = st.sidebar.radio("**Select LLM Model:**", ("OpenAI", "Hugging Face"))
