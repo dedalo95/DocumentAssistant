@@ -14,7 +14,7 @@ This application leverages Retrieval Augmented Generation (RAG) to enhance the i
 1. Clone the repository:
     ```bash
     git clone https://github.com/dedalo95/DocumentAssistant.git
-    cd personal-document-assistant
+    cd DocumentAssistant
     ```
 2. Install the required packages:
     ```bash
