@@ -1,0 +1,5 @@
+langchain==0.2.5
+langchain_community==0.2.5
+langchain_huggingface==0.0.3
+langchain_openai==0.1.8
+streamlit==1.35.0
